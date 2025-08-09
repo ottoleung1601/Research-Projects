@@ -13,6 +13,6 @@
   - [SURE report](https://github.com/ottoleung1601/Research-Projects/blob/main/SURE_report.pdf)
 
 - <b>Summer Undergraduate Research Internship Program:</b>
-  Fermionic Dark Matter0-Admixed White Dwarf Model
+  Fermionic Dark Matter-Admixed White Dwarf Model
   - [SURIP poster](https://github.com/ottoleung1601/Research-Projects/blob/main/SURIP_poster.pdf)
   
