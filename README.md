@@ -1,4 +1,7 @@
 <h2>Undergraduate Research Projects:</h2>
+- <b>Final Year Project:</b>
+  Probing the Degeneracy of Evolving Dark Energy and Extended Neutrino Cold Dark Matter Models using DESI DR2
+  - [FYP report2](https://github.com/ottoleung1601/Research-Projects/blob/main/FYP_report2.pdf)
 
 - <b>Final Year Project:</b>
   Probing the Neutrino-Dark Energy Degeneracy in Cold Dark Matter Model using Baryonic Acoustic Oscillation Data
