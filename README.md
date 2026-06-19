@@ -5,7 +5,7 @@
   - [FYP report2](https://github.com/ottoleung1601/Research-Projects/blob/main/FYP_report2.pdf)
 
 - <b>Final Year Project:</b>
-  Probing the Neutrino-Dark Energy Degeneracy in Cold Dark Matter Model using Baryonic Acoustic Oscillation Data
+  Probing the Neutrino-Dark Energy Degeneracy in Cold Dark Matter Model using Baryon Acoustic Oscillation Data
   - [FYP report](https://github.com/ottoleung1601/Research-Projects/blob/main/FYP_report.pdf)
     
 - <b>University of Tokyo Research Internship Program:</b>
